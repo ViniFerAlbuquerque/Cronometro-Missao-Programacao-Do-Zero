@@ -5,4 +5,4 @@
 [🔗Clique Aqui Para Acessar](viniferalbuquerque-cronometro.netlify.app)
 
   
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/304080d8-c9d1-4a52-b8a7-b251ae241b38/deploy-status)](https://app.netlify.com/sites/viniferalbuquerque-cronometro/deploys)
+  (https://app.netlify.com/sites/viniferalbuquerque-cronometro/deploys)
